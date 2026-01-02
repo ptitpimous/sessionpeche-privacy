@@ -1,4 +1,4 @@
-Politique de confidentialité — Session Pêche
+📄 Politique de confidentialité — Session Pêche
 1. Introduction
 
 L’application Session Pêche respecte votre vie privée. Cette politique explique quelles données sont collectées, pourquoi, comment elles sont utilisées et protégées, et quels sont vos droits concernant ces informations.
@@ -104,3 +104,8 @@ Demander des informations sur les données stockées dans votre compte Firebase
 Pour toute question concernant vos données ou cette politique, vous pouvez nous contacter à :
 
 📧 Email : support@sessionpeche.app
+
+11. Modifications de cette politique
+
+Cette politique peut être mise à jour pour des raisons légales ou fonctionnelles.
+La version mise à jour sera publiée en ligne et dans l’application.
