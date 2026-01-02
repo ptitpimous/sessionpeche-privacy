@@ -103,7 +103,7 @@ Demander des informations sur les données stockées dans votre compte Firebase
 
 Pour toute question concernant vos données ou cette politique, vous pouvez nous contacter à :
 
-📧 Email : support@sessionpeche.app
+📧 Email : pechesession.app@gmail.com
 
 11. Modifications de cette politique
 
